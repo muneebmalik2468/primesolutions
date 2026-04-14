@@ -42,7 +42,7 @@ export default function AboutCTA() {
               <Button
                 href="/contact"
                 size="lg"
-                className="bg-white text-primary hover:bg-white/90 shadow-xl"
+                className="bg-white !text-primary hover:bg-white/90 shadow-xl"
               >
                 Start a Conversation
               </Button>
@@ -50,7 +50,7 @@ export default function AboutCTA() {
                 href="/services"
                 variant="outline"
                 size="lg"
-                className="border-white text-white hover:bg-white hover:text-primary"
+                className="border-white text-white hover:bg-secondary hover:text-primary"
               >
                 Explore Our Services
               </Button>

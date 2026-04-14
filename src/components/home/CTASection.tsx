@@ -41,7 +41,7 @@ export default function CTASection() {
               <Button
                 href="/contact"
                 size="lg"
-                className="bg-white text-primary hover:bg-white/90 shadow-xl"
+                className="bg-white !text-primary hover:bg-white/90 shadow-xl"
               >
                 Book Free Strategy Call
               </Button>
@@ -49,7 +49,7 @@ export default function CTASection() {
                 href="/services"
                 variant="outline"
                 size="lg"
-                className="border-white text-white hover:bg-white hover:text-primary"
+                className="border-white text-white hover:bg-secondary hover:text-primary"
               >
                 View Our Services
               </Button>

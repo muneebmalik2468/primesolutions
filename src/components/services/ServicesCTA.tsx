@@ -41,7 +41,7 @@ export default function ServicesCTA() {
               <Button
                 href="/contact"
                 size="lg"
-                className="bg-white text-secondary hover:bg-white/90 shadow-xl"
+                className="bg-white !text-secondary hover:bg-white/90 shadow-xl"
               >
                 Schedule a Free Consultation
               </Button>
@@ -49,7 +49,7 @@ export default function ServicesCTA() {
                 href="tel:+15551234567"
                 variant="outline"
                 size="lg"
-                className="border-white text-white hover:bg-white hover:text-secondary"
+                className="border-white text-white hover:bg-secondary hover:text-secondary"
               >
                 Call Us: +1 (555) 123-4567
               </Button>
